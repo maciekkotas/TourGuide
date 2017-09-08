@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+            xmlns:app="http://schemas.android.com/apk/res-auto"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:background="#43ABC9"
+            android:orientation="vertical">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/symbols_title"
+            style="@style/history"
+            android:text="@string/symbols"/>
+
+        <TextView
+            android:id="@+id/pic_one_info"
+            style="@style/symbol_title"
+            android:text="@string/coat"/>
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="300dp"
+            app:srcCompat="@drawable/coat_of_arms"/>
+
+        <TextView
+            android:id="@+id/textView4"
+            style="@style/symbol_info"
+            android:text="@string/coat_info"/>
+
+        <TextView
+            android:id="@+id/pic_two_info"
+            style="@style/symbol_title"
+            android:gravity="center"
+            android:text="@string/flag"
+            />
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="300dp"
+            app:srcCompat="@drawable/flag"/>
+
+        <TextView
+            android:id="@+id/textView5"
+            style="@style/symbol_info"
+            android:text="@string/flag_info"/>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+
+            <TextView
+                android:id="@+id/textView3"
+                style="@style/symbol_title"
+                android:layout_weight="1"
+                android:text="@string/anthem"/>
+
+            <ImageView
+                android:id="@+id/play"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_margin="16dp"
+
+                app:srcCompat="@android:drawable/ic_media_play"
+                />
+
+            <ImageView
+                android:id="@+id/pause"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_margin="16dp"
+                android:visibility="gone"
+                app:srcCompat="@android:drawable/ic_media_pause"
+                />
+
+
+        </LinearLayout>
+
+        <TextView
+            android:id="@+id/textView6"
+            style="@style/symbol_info"
+            android:layout_weight="1"
+            android:text="@string/anthem_info"/>
+    </LinearLayout>
+</ScrollView>

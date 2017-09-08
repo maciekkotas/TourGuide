@@ -1,0 +1,109 @@
+<resources>
+    <string name="app_name">TourGuide - Rybnik</string>
+
+    <string name="basilica"> Basilic of St. Anthony</string>
+    <string name="basilica_info">The neo-gothic basilic</string>
+    TODO:dokończyć
+    <string name="basilica_localization">ul. Mikolowska 4, Rybnik</string>
+
+    <string name="fountain">Fountain</string>
+    <string name="fountain_info">Every evening music and light show</string>
+    <string name="fountain_localization">pl. Jana Pawla II, Rybnik</string>
+
+    <string name="ruda">Kapielisko Ruda</string>
+    <string name="ruda_info">Sport and Recreation Center</string>
+    <string name="ruda_localization">ul. Gliwicka 72, Rybnik</string>
+
+    <string name="old_market">Old Market</string>
+    <string name="old_market_info">Historical market square in central Rybnik</string>
+    <string name="old_markret_localization">ul. Rynek, Rybnik</string>
+
+    <string name="theme_park">Theme Park</string>
+    <string name="theme_park_info">Park with many facilities for children</string>
+    <string name="theme_park_localization">ul. Rudzka, Rybnik</string>
+
+    <string name="waw_church">St. Wawrzyniec Church</string>
+    <string name="waw_church_info">Wooden Church from XVIII century</string>
+    <string name="waw_church_localization">ul. Wolna 125, Rybnik</string>
+
+    <string name="mine">Ignacy Historic Mine</string>
+    <string name="mine_info">Museum of mining in Rybnik</string>
+    <string name="mine_localization">ul. Ignacego Moscickiego 3, Rybnik</string>
+
+    <string name="old_town_hall">Town Hall</string>
+    <string name="old_town_hall_info">Neo-classical old town hall with clock-tower,
+        housing the registry office and the museum of local history </string>
+    <string name="old_town_hall_localization">Rynek 18, Rybnik</string>
+
+    <string name="academic_church">Academic Church</string>
+    <string name="academic_info">The Oldest and the smallest church in Rybnik.</string>
+    <string name="academic_localization">ul. Gliwica, Rybnik</string>
+
+    <string name="castle">Castle in Rybnik</string>
+    <string name="castle_info">Old Piasts castle in the central Rybnik. Today\'s court. </string>
+    <string name="castle_localization">Plac Kopernika 2, Rybnik</string>
+
+    <string name="symbols">Symbols of Rybnik</string>
+
+    <string name="flag">Flag</string>
+    <string name="flag_info">Flag of Rybnik represents 3 lines in blue and white color, with coat of arms in the middle</string>
+
+    <string name="coat">Coat of Arms</string>
+    <string name="coat_info">Pike in the middle with water nuts in 2 corners</string>
+
+    <string name="anthem">Anthem</string>
+    <string name="anthem_info">Since 2003 you can hear Rybnik\'s anthem every hour at Main Square.
+        It was composted by M.Blaszczyka for VIII century anniversary of Rybnik</string>
+
+    <string name="restaurants">Restaurants</string>
+
+    <string name="ino_wino">InoWino</string>
+    <string name="ino_wino_info">Wine Bar, Polish cousin, $$-$$$</string>
+    <string name="ino_wino_localization">ul. T. Kosciuszki 27, Rybnik</string>
+
+    <string name="japan_sun">Japan Sun - Sushi and Grill</string>
+    <string name="japan_sun_info">Japanese, Sushi, Wine Bar, $$-$$$</string>
+    <string name="japan_sun_localization">ul. Koscielna 4, Rybnik</string>
+
+    <string name="bizon">Bizon Pub and Restaurant</string>
+    <string name="bizon_info">American, Pizza, $$-$$$</string>
+    <string name="bizon_localization">ul. Korfantego 6, Rybnik</string>
+
+    <string name="delicje">Delicje Ristorante</string>
+    <string name="delicje_info">Italian, Wine Bar, $$$$</string>
+    <string name="delicje_localization">ul. Raciborska 2, Rybnik</string>
+
+    <string name="europa">Europa Restaurant</string>
+    <string name="europa_info">Polish, European, $$-$$$</string>
+    <string name="europa_localization">ul. Zoledziowa 100, Rybnik</string>
+
+    <string name="hajda">Hajda Pizzeria and Ristorante</string>
+    <string name="hajda_info">Italian, Pizza, $</string>
+    <string name="hajda_localization">ul. Chwalowicka 44, Rybnik</string>
+
+    <string name="santorini">Santorini</string>
+    <string name="santorini_info">Greek, $$</string>
+    <string name="santorini_localization">ul. Rynek 8, Rybnik</string>
+
+    <string name="dares">Dares</string>
+    <string name="dares_info">Pizza and Noddles, $</string>
+    <string name="dares_localization">ul. W. Korfantego, Rybnik</string>
+
+    <string name="martinez">Don Martinez</string>
+    <string name="martinez_info">Mexican,  $$-$$$</string>
+    <string name="martinez_localization">ul. B. Kominka 46, Rybnik</string>
+
+    <string name="lili">Lili Caffe</string>
+    <string name="lili_info">Coffe, Ice Cream, Cake, $$</string>
+    <string name="lili_localization">ul. Zamkowa 2/4, Rybnik</string>
+
+    <string name="history">History</string>
+
+    <string name="title_history">History of Rybnik</string>
+    <string name="hisory_of_rybnik">
+            The city first developed as a fishing center(Rybnik means fishpond in Slaciv languages) in medival ages, then was a capital of so-called Rybnik State.
+        Rybnik grew as an important centr of coal mining and the seat of the surrounding county in the 19th century.</string>
+    <string name="rybnik_info">     Rybnik has a population of about 140 000. City area with large coal mines and power plants is an important economic region of Poland.
+    and a visible center of music, home of Szafrankowie Brother State School of Music as well as a Philharmonic Orchestra.</string>
+</resources>
+
